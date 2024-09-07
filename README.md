@@ -9,35 +9,6 @@ This is a simple To-Do List application built using React. It allows users to ad
 - Clear all completed tasks.
 - Data persistence using `localStorage`.
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**
-
-    ```bash
-    git clone https://github.com/Mai-Lahlouh/todo-list-app.git
-    cd todo-list-app
-    ```
-
-2. **Install dependencies**
-
-    Ensure you have Node.js and npm installed. Then, run:
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the application**
-
-    Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-    The application will be available at `http://localhost:3000`.
-
 ## Usage
 
 Once the application is running, you can:
@@ -58,6 +29,11 @@ Here is an overview of the project's folder structure:
   - **`contexts/`**: Contains the context used for state management.
   - **`App.js`**: The main React component.
   - **`index.js`**: The entry point of the React application.
+
+## Deployment
+
+The project has been deployed and can be accessed at the following link:
+**Live Demo**: [https://main--todo-m1.netlify.app/](https://main--todo-m1.netlify.app/)
     
 ## Contact
 If you have any questions or feedback, feel free to contact me at [Email](nlahlouh09@gmail.com).

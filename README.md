@@ -33,7 +33,8 @@ Here is an overview of the project's folder structure:
 ## Deployment
 
 The project has been deployed and can be accessed at the following link:
-**Live Demo**: [https://main--todo-m1.netlify.app/](https://main--todo-m1.netlify.app/)
+
+- **Live Demo**: [https://main--todo-m1.netlify.app/](https://main--todo-m1.netlify.app/)
     
 ## Contact
 If you have any questions or feedback, feel free to contact me at [Email](nlahlouh09@gmail.com).

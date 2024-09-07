@@ -11,7 +11,7 @@ export default function ToDo({todo}){
     const changeStyle = todo.isCompleted ? "style2" : "style1";
     function handleCheckClick(){
         const updateToDo = todos.map((t)=>{
-            if(t.id == todo.id){
+            if(t.id === todo.id){
                 t.isCompleted = !t.isCompleted;
             }
             return t;

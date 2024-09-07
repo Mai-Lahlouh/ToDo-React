@@ -40,9 +40,9 @@ function App() {
     setButtonType(e.target.value);  
   };
   let todoToBeRendered = todos;
-  if(buttonType == "completed"){
+  if(buttonType === "completed"){
     todoToBeRendered = completedList;
-  }else if(buttonType == "active"){
+  }else if(buttonType === "active"){
     todoToBeRendered = activeList;
   }else{
     todoToBeRendered = todos;

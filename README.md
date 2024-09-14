@@ -30,6 +30,13 @@ Here is an overview of the project's folder structure:
   - **`App.js`**: The main React component.
   - **`index.js`**: The entry point of the React application.
 
+## Responsive Design
+
+The application is optimized for various screen sizes, particularly:
+
+- **Mobile device**: The layout adjusts for smaller screens (under 500px), providing a streamlined and user-friendly interface.
+- **Tablets and Desktops**: The design scales up for larger devices, ensuring a consistent experience across all platforms.
+
 ## Deployment
 
 The project has been deployed and can be accessed at the following link:
